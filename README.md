@@ -18,7 +18,7 @@ This repository contains a simple web application and instructions to deploy it 
    ```bash
    aws configure
 
-#### 4. **Setup**
+####  **Setup**
    - Provide instructions on how to clone the repository and configure the project.
 
 ```markdown
@@ -39,7 +39,7 @@ chmod +x deploy.sh
 
 ## Building the Docker Image
 
-1. Build the Docker image locally.
+2. Build the Docker image locally.
    ```bash
    docker build -t simple-web-app .
 
